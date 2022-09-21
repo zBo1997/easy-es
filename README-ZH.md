@@ -154,12 +154,12 @@ compile group: 'cn.easy-es', name: 'easy-es-boot-starter', version: 'Latest Vers
 > 如果您愿意捐赠本项目,推荐直接在右下方通过Gitee直接捐赠.
 
 # 关注我 | About Me
----
+
 
 [CSDN博客](https://blog.csdn.net/lovexiaotaozi?spm=3001.5343)
 
 QQ | 微信:252645816
 
 # 知识星球 | Planet Of Knowledge
----
+
 <img alt="zsxq" src="https://iknow.hs.net/9038b7ab-c0d9-4a87-9492-e839907a8978.png">
