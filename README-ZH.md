@@ -19,7 +19,7 @@
 </p>
 
 # 官方地址 | Official website
----
+
 
 **easy-es官网** https://easy-es.cn/
 
@@ -34,7 +34,7 @@
 > **Tip:** 官网是vue单页面应用，首次访问加载可能比较慢🐢，主公们请耐心等待一下，后续会很快🏹，如偶遇打不开可刷新多尝试几次.
 
 # 简介 | Intro
----
+
 
 Easy-Es是一款简化ElasticSearch搜索引擎操作的开源框架,全自动智能索引托管.
 
@@ -53,7 +53,7 @@ Easy-Es是一款简化ElasticSearch搜索引擎操作的开源框架,全自动�
 支持一下国产开源,让更多人看到和使用本项目,非常感谢!
 
 # 优点 | Advantages
----
+
 
 - **全自动索引托管:** 全球开源首创的索引托管模式,开发者无需关心索引的创建更新及数据迁移等繁琐步骤,索引全生命周期皆可托管给框架,由框架自动完成,过程零停机,用户无感知,彻底解放开发者
 - **屏蔽语言差异:** 开发者只需要会MySQL语法即可使用Es
@@ -67,7 +67,7 @@ Easy-Es是一款简化ElasticSearch搜索引擎操作的开源框架,全自动�
 - **...**
 
 # 对比 | Compare
----
+
 > 需求:查询出文档标题为 "传统功夫"且作者为"码保国"的所有文档
 ```java
     // 使用Easy-Es仅需1行代码即可完成查询
@@ -102,20 +102,20 @@ Easy-Es是一款简化ElasticSearch搜索引擎操作的开源框架,全自动�
 > * 传统功夫,点到为止! 上述功能仅供演示,仅为Easy-Es支持功能的冰山一角,Easy-Es就是这么Easy到不讲武德💪,不用的请耗子尾汁.
 
 # 架构 | Architecture
----
+
 
 ![Architecture](https://iknow.hs.net/27fb40b8-22d4-45c2-92e0-1471112d5102.jpg)
 
 
 # 相关链接 | Links
----
+
 
 - [Switch To English](https://github.com/dromara/easy-es/blob/main/README.md)
 - [功能示例](https://github.com/dromara/easy-es/tree/main/easy-es-sample)
 - [Springboot集成Demo](https://www.easy-es.cn/pages/12283a/)
 
 # Latest Version: [![Maven Central](https://img.shields.io/github/v/release/xpc1024/easy-es?include_prereleases&logo=xpc&style=plastic)](https://search.maven.org/search?q=g:io.github.xpc1024%20a:easy-*)
----
+
 **Maven:**
 ``` xml
 <dependency>
@@ -130,22 +130,22 @@ compile group: 'cn.easy-es', name: 'easy-es-boot-starter', version: 'Latest Vers
 ```
 
 # 其他开源项目 | Other Project
----
+
 
 - [健身计划一键生成系统](https://gitee.com/easy-es/fit-plan)
 
 # 期望 | Futures
----
+
 
 > 欢迎提出更好的意见，帮助完善 Easy-Es
 
 # 版权 | License
----
+
 
 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 # 捐赠 | Donate
----
+
 
 [捐赠记录,感谢你们的支持！](https://easy-es.cn/pages/b52ac5/)
 
