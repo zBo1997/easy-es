@@ -31,7 +31,7 @@
         <java.version>1.8</java.version>
         <lombok.version>1.18.12</lombok.version>
         <es-rest-high-level-client.version>7.14.0</es-rest-high-level-client.version>
-        <es.version>7.14.0</es.version>
+        <es.version>7.17.13</es.version>
         <fastjson.version>1.2.83</fastjson.version>
         <codec.version>1.13</codec.version>
         <spring-boot.version>2.6.10</spring-boot.version>
